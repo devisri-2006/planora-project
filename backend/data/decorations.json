@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Royal Wedding Decoration",
+    "city": "Hyderabad",
+    "estimated_price": 35000,
+    "suitable_for": ["Wedding"],
+    "services": [
+      "Stage Decoration",
+      "Flower Decoration",
+      "Lighting"
+    ]
+  },
+  {
+    "name": "Birthday Theme Decoration",
+    "city": "Hyderabad",
+    "estimated_price": 15000,
+    "suitable_for": ["Birthday"],
+    "services": [
+      "Balloon Decoration",
+      "Theme Decoration",
+      "Photo Booth"
+    ]
+  },
+  {
+    "name": "College Event Decoration",
+    "city": "Vijayawada",
+    "estimated_price": 20000,
+    "suitable_for": ["College Event", "Cultural Program"],
+    "services": [
+      "Stage Decoration",
+      "Lighting",
+      "Backdrop"
+    ]
+  }
+]

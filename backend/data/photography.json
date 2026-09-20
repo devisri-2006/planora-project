@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Moments Photography",
+    "city": "Hyderabad",
+    "estimated_price": 25000,
+    "services": [
+      "Photography",
+      "Videography",
+      "Event Coverage"
+    ],
+    "suitable_for": ["Wedding", "Birthday", "College Event"]
+  },
+  {
+    "name": "Perfect Clicks",
+    "city": "Vijayawada",
+    "estimated_price": 18000,
+    "services": [
+      "Photography",
+      "Videography",
+      "Candid Photography"
+    ],
+    "suitable_for": ["Birthday", "Wedding", "Cultural Program"]
+  },
+  {
+    "name": "Corporate Media Studio",
+    "city": "Bengaluru",
+    "estimated_price": 30000,
+    "services": [
+      "Event Photography",
+      "Video Recording",
+      "Professional Editing"
+    ],
+    "suitable_for": ["Corporate Event", "Conference", "Seminar"]
+  }
+]

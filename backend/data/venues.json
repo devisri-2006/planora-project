@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Grand Palace Convention Hall",
+    "city": "Hyderabad",
+    "capacity": 500,
+    "estimated_price": 120000,
+    "suitable_for": [
+      "Wedding",
+      "Corporate Event",
+      "Conference",
+      "Seminar"
+    ],
+    "facilities": [
+      "Air Conditioning",
+      "Parking",
+      "Stage",
+      "Dining Area"
+    ]
+  },
+  {
+    "name": "Royal Garden Function Hall",
+    "city": "Hyderabad",
+    "capacity": 300,
+    "estimated_price": 75000,
+    "suitable_for": [
+      "Wedding",
+      "Birthday",
+      "Cultural Program"
+    ],
+    "facilities": [
+      "Garden",
+      "Parking",
+      "Dining Area",
+      "Decoration Space"
+    ]
+  },
+  {
+    "name": "City Celebration Banquet",
+    "city": "Hyderabad",
+    "capacity": 150,
+    "estimated_price": 45000,
+    "suitable_for": [
+      "Birthday",
+      "Seminar",
+      "Corporate Event"
+    ],
+    "facilities": [
+      "Air Conditioning",
+      "Parking",
+      "Tables and Chairs",
+      "Audio System"
+    ]
+  },
+  {
+    "name": "Innovation Convention Center",
+    "city": "Bengaluru",
+    "capacity": 800,
+    "estimated_price": 180000,
+    "suitable_for": [
+      "Conference",
+      "Exhibition",
+      "Corporate Event"
+    ],
+    "facilities": [
+      "Large Auditorium",
+      "Parking",
+      "Projector",
+      "Audio Visual System"
+    ]
+  },
+  {
+    "name": "Green Leaf Event Garden",
+    "city": "Vijayawada",
+    "capacity": 250,
+    "estimated_price": 60000,
+    "suitable_for": [
+      "Wedding",
+      "Birthday",
+      "Cultural Program"
+    ],
+    "facilities": [
+      "Outdoor Garden",
+      "Parking",
+      "Dining Area",
+      "Stage"
+    ]
+  },
+  {
+    "name": "Knowledge Hub Auditorium",
+    "city": "Visakhapatnam",
+    "capacity": 400,
+    "estimated_price": 90000,
+    "suitable_for": [
+      "Conference",
+      "Seminar",
+      "College Event"
+    ],
+    "facilities": [
+      "Auditorium",
+      "Projector",
+      "Sound System",
+      "Parking"
+    ]
+  }
+]

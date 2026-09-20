@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Celebration Catering",
+    "city": "Hyderabad",
+    "price_per_person": 500,
+    "food_type": ["Vegetarian", "Non-Vegetarian"],
+    "services": ["Buffet", "Desserts", "Drinks"]
+  },
+  {
+    "name": "Green Plate Catering",
+    "city": "Vijayawada",
+    "price_per_person": 350,
+    "food_type": ["Vegetarian"],
+    "services": ["Buffet", "Traditional Food", "Desserts"]
+  },
+  {
+    "name": "Royal Feast Catering",
+    "city": "Visakhapatnam",
+    "price_per_person": 450,
+    "food_type": ["Vegetarian", "Non-Vegetarian"],
+    "services": ["Buffet", "Snacks", "Desserts"]
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Celebration Caterers",
+    "city": "Hyderabad",
+    "service": "Catering",
+    "price_per_person": 500,
+    "suitable_for": [
+      "Wedding",
+      "Birthday",
+      "Corporate Event",
+      "College Event"
+    ],
+    "services": [
+      "Vegetarian Menu",
+      "Non-Vegetarian Menu",
+      "Buffet",
+      "Desserts"
+    ]
+  },
+  {
+    "name": "Royal Decorators",
+    "city": "Hyderabad",
+    "service": "Decoration",
+    "estimated_price": 35000,
+    "suitable_for": [
+      "Wedding",
+      "Birthday",
+      "Cultural Program"
+    ],
+    "services": [
+      "Stage Decoration",
+      "Flower Decoration",
+      "Lighting",
+      "Balloon Decoration"
+    ]
+  },
+  {
+    "name": "Moments Photography",
+    "city": "Hyderabad",
+    "service": "Photography",
+    "estimated_price": 25000,
+    "suitable_for": [
+      "Wedding",
+      "Birthday",
+      "Corporate Event",
+      "College Event"
+    ],
+    "services": [
+      "Photography",
+      "Videography",
+      "Event Coverage"
+    ]
+  },
+  {
+    "name": "Elite Events",
+    "city": "Bengaluru",
+    "service": "Event Management",
+    "estimated_price": 50000,
+    "suitable_for": [
+      "Corporate Event",
+      "Conference",
+      "Exhibition",
+      "Seminar"
+    ],
+    "services": [
+      "Event Coordination",
+      "Guest Management",
+      "Stage Management",
+      "Vendor Coordination"
+    ]
+  },
+  {
+    "name": "Green Plate Catering",
+    "city": "Vijayawada",
+    "service": "Catering",
+    "price_per_person": 350,
+    "suitable_for": [
+      "Wedding",
+      "Birthday",
+      "Cultural Program",
+      "College Event"
+    ],
+    "services": [
+      "Vegetarian Menu",
+      "Buffet",
+      "Traditional Food",
+      "Desserts"
+    ]
+  },
+  {
+    "name": "Creative Stage Solutions",
+    "city": "Visakhapatnam",
+    "service": "Event Setup",
+    "estimated_price": 40000,
+    "suitable_for": [
+      "Conference",
+      "Seminar",
+      "College Event",
+      "Exhibition"
+    ],
+    "services": [
+      "Stage Setup",
+      "Sound System",
+      "Lighting",
+      "Projector Setup"
+    ]
+  }
+]

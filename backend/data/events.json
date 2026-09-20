@@ -1,0 +1,159 @@
+[
+  {
+    "event_type": "Wedding",
+    "description": "A wedding event usually includes a venue, catering, decoration, photography, entertainment and guest management.",
+    "recommended_services": [
+      "Venue",
+      "Catering",
+      "Decoration",
+      "Photography",
+      "Entertainment",
+      "Invitation"
+    ],
+    "planning_tasks": [
+      "Select venue",
+      "Prepare guest list",
+      "Book caterer",
+      "Choose decoration",
+      "Book photographer",
+      "Prepare event schedule"
+    ]
+  },
+  {
+    "event_type": "Birthday",
+    "description": "A birthday event can include a venue, food, decoration, cake, photography and entertainment.",
+    "recommended_services": [
+      "Venue",
+      "Catering",
+      "Cake",
+      "Decoration",
+      "Photography",
+      "Entertainment"
+    ],
+    "planning_tasks": [
+      "Choose venue",
+      "Order cake",
+      "Plan decoration",
+      "Arrange food",
+      "Prepare guest list",
+      "Plan activities"
+    ]
+  },
+  {
+    "event_type": "Corporate Event",
+    "description": "A corporate event may include meetings, presentations, catering, audio visual equipment and professional arrangements.",
+    "recommended_services": [
+      "Conference Venue",
+      "Catering",
+      "Audio Visual Equipment",
+      "Photography",
+      "Transportation"
+    ],
+    "planning_tasks": [
+      "Select venue",
+      "Prepare guest list",
+      "Arrange equipment",
+      "Plan presentations",
+      "Arrange catering",
+      "Prepare event schedule"
+    ]
+  },
+  {
+    "event_type": "Conference",
+    "description": "A conference requires a suitable venue, seating, audio visual equipment, speakers, catering and registration arrangements.",
+    "recommended_services": [
+      "Conference Venue",
+      "Audio Visual Equipment",
+      "Catering",
+      "Registration",
+      "Speaker Management"
+    ],
+    "planning_tasks": [
+      "Book conference venue",
+      "Confirm speakers",
+      "Arrange audio visual equipment",
+      "Prepare registration",
+      "Arrange catering",
+      "Create conference schedule"
+    ]
+  },
+  {
+    "event_type": "College Event",
+    "description": "A college event can include cultural activities, stage programs, food, decoration, sound systems and security.",
+    "recommended_services": [
+      "Venue",
+      "Stage",
+      "Sound System",
+      "Decoration",
+      "Catering",
+      "Security"
+    ],
+    "planning_tasks": [
+      "Select venue",
+      "Plan activities",
+      "Arrange stage",
+      "Arrange sound system",
+      "Plan food",
+      "Prepare event schedule"
+    ]
+  },
+  {
+    "event_type": "Exhibition",
+    "description": "An exhibition requires an exhibition space, stalls, lighting, decoration, visitor management and security.",
+    "recommended_services": [
+      "Exhibition Venue",
+      "Stall Setup",
+      "Lighting",
+      "Decoration",
+      "Security",
+      "Visitor Management"
+    ],
+    "planning_tasks": [
+      "Book exhibition space",
+      "Plan stall layout",
+      "Arrange lighting",
+      "Contact exhibitors",
+      "Arrange security",
+      "Prepare visitor plan"
+    ]
+  },
+  {
+    "event_type": "Seminar",
+    "description": "A seminar generally includes a venue, speakers, seating, presentation equipment, registration and refreshments.",
+    "recommended_services": [
+      "Seminar Venue",
+      "Audio Visual Equipment",
+      "Speaker Management",
+      "Registration",
+      "Refreshments"
+    ],
+    "planning_tasks": [
+      "Select venue",
+      "Confirm speakers",
+      "Prepare presentations",
+      "Arrange seating",
+      "Arrange refreshments",
+      "Prepare schedule"
+    ]
+  },
+  {
+    "event_type": "Cultural Program",
+    "description": "A cultural program may include performances, stage setup, sound systems, decoration, costumes and audience management.",
+    "recommended_services": [
+      "Venue",
+      "Stage",
+      "Sound System",
+      "Decoration",
+      "Costumes",
+      "Security"
+    ],
+    "planning_tasks": [
+      "Select venue",
+      "Plan performances",
+      "Arrange stage",
+      "Arrange sound system",
+      "Prepare costumes",
+      "Create event schedule"
+    ]
+  }
+]
