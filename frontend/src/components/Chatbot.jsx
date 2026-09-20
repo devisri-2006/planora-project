@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { API_BASE_URL } from "../config";
 
 
 function Chatbot() {
@@ -33,7 +34,7 @@ function Chatbot() {
     try {
 
       const response = await fetch(
-        "http://127.0.0.1:8000/chat/",
+        `${API_BASE_URL}/chat/`,
         {
           method: "POST",
 

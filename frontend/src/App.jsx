@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { API_BASE_URL } from './config';
 import { 
   Sparkles, Calendar, Users, MapPin, DollarSign, 
   Heart, Building, Award, BookOpen, Music, 
@@ -133,7 +134,7 @@ export default function App() {
     e.preventDefault();
     setLoading(true);
     try {
-      const response = await fetch('http://127.0.0.1:8000/ai/generate-plan', {
+      const response = await fetch(`${API_BASE_URL}/ai/generate-plan`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -186,7 +187,7 @@ export default function App() {
     setChatLoading(true);
 
     try {
-      const response = await fetch('http://127.0.0.1:8000/chat/', {
+      const response = await fetch(`${API_BASE_URL}/chat/`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ message: userMsg })

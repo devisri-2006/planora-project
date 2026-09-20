@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { API_BASE_URL } from "../config";
 
 
 function EventForm({
@@ -42,7 +43,7 @@ function EventForm({
     try {
 
       const response = await fetch(
-        "http://127.0.0.1:8000/ai/generate-plan",
+        `${API_BASE_URL}/ai/generate-plan`,
         {
           method: "POST",
 
