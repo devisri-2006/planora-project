@@ -1,0 +1,17 @@
+# Local environment
+.env
+
+# Dependencies
+node_modules/
+
+# Frontend build output
+dist/
+frontend/dist/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Local databases and generated indexes
+planora.db
+backend/chroma_db/
