@@ -5,4 +5,4 @@ __pycache__/
 planora.db
 backend/chroma_db/
 backend/admin_registrations/*
-!backend/admin_registrations/.gitkeep
+!backend/admin_registrations/.
